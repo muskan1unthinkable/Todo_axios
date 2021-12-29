@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "title": "Buy groceries",
+      "id": 1
+    },
+    {
+      "title": "Complete Rfs",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
